@@ -1,0 +1,95 @@
+{
+    "type": "fb",
+    "questions": [
+        {
+            "q": "Jay ------(speak) Telugu, Hindi and Urdu.",
+            "a": ["speaks"],
+            "correct": "Correct!",
+            "incorrect": "Jay speaks Telugu, Hindi and Urdu. "
+        },
+        {
+            "q": "She ------(teach) English in a school.",
+            "a": ["teaches"],
+            "correct": "Correct!",
+            "incorrect": "She teaches English in a school."
+        },
+        {
+            "q": "Every morning Lakshmi ------(leave)for work at 7.30.",
+            "a": ["leaves"],
+            "correct": "Correct!",
+            "incorrect": "Every morning Lakshmi leaves for work at 7.30."
+        },
+        {
+            "q": "Bhavana ------(go)to the office by bus.",
+            "a": ["goes"],
+            "correct": "Correct!",
+            "incorrect": "Bhavana goes to the office by bus."
+        },
+        {
+            "q": "She ------(carry)her lunch box to school.",
+            "a": ["carries"],
+            "correct": "Correct!",
+            "incorrect": "She carries her lunch box to school."
+        },
+        {
+            "q": "Usually at 2 'o' clock, she ------(take)her lunch.",
+            "a": ["takes"],
+            "correct": "Correct!",
+            "incorrect": "Usually at 2 'o' clock, she takes her lunch."
+        },
+        {
+            "q": "Jaydeep ------(finish)his work at 5 'o' clock.",
+            "a": ["finishes"],
+            "correct": "Correct!",
+            "incorrect": "Jaydeep finishes his work at 5 'o' clock."
+        },
+        {
+            "q": "In the evening I ------(play)with my kids.",
+            "a": ["play"],
+            "correct": "Correct!",
+            "incorrect": "In the evening I play with my kids."
+        },
+        {
+            "q": "Do you ------(like) chocolate milk?",
+            "a": ["like"],
+            "correct": "Correct!",
+            "incorrect": "Do you like chocolate milk?"
+        },
+        {
+            "q": "He ------(do)not go for movies.",
+            "a": ["does"],
+            "correct": "Correct!",
+            "incorrect": "He does not go for movies."
+        },
+        {
+            "q": "------(to be)we too late to catch the bus?",
+            "a": ["Are"],
+            "correct": "Correct!",
+            "incorrect": "Are we too late to catch the bus?"
+        },
+        {
+            "q": "It ------(be)a beautiful day today.",
+            "a": ["is"],
+            "correct": "Correct!",
+            "incorrect": "It is a beautiful day today."
+        },
+        {
+            "q": "Sorry, Gigy ------(be)not here at the moment.",
+            "a": ["is"],
+            "correct": "Correct!",
+            "incorrect": "Sorry, Gigy is not here at the moment."
+        },
+        {
+            "q": "------(be)I correct?",
+            "a": ["Am"],
+            "correct": "Correct!",
+            "incorrect": "Am I correct? "
+        },
+        {
+            "q": "Kevin ------(do)not go to school.",
+            "a": ["does"],
+            "correct": "Correct!",
+            "incorrect": "Kevin does not go to school."
+        }
+    ]
+}
